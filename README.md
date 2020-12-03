@@ -1,5 +1,5 @@
-#POS.HOST
-# This is an Open Source POS forked from uniCenta oPos 4.6.2
+# POS.HOST
+## This is an Open Source POS forked from uniCenta oPos 4.6.2
 
 ## Overview
 
